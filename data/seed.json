@@ -1,10 +1,10 @@
 {
   "store": {
-    "currencies": ["eur", "usd"]
+    "currencies": ["eur", "usd", "egp"]
   },
   "users": [
     {
-      "email": "admin@medusa-test.com",
+      "email": "mahmoud@work.com",
       "password": "supersecret"
     }
   ],
